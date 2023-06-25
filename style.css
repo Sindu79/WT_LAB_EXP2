@@ -1,0 +1,37 @@
+.D1{
+    padding: 25px;
+    width:550px;
+    height:580px;
+    background-color:aliceblue;
+    justify-content: center;
+    margin: 10px 430px;
+    border:1px solid black
+}
+input[type=text],input[type=email],input[type=password],input[type=date]{
+    display:inline-block;
+    width:100%;
+    padding:5px;
+    margin: 5px 0px;
+}
+.P1{
+    text-align: center;
+    color:dimgray;
+}
+.D2{
+    padding: 25px;
+    width:550px;
+    height:140px;
+    background-color:aliceblue;
+    justify-content: center;
+    margin: 10px 430px;
+    border:1px solid black
+}
+.D3{
+    padding: 25px;
+    width:550px;
+    height:70px;
+    background-color:aliceblue;
+    justify-content: center;
+    margin: 10px 430px;
+    border:1px solid black
+}
